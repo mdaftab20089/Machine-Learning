@@ -1,0 +1,2 @@
+Test the Function: Added a print statement to test the function.
+This corrected version will properly check if the input string is a palindrome.
