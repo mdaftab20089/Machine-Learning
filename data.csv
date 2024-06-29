@@ -1,6 +1,6 @@
 Date	Category	Value	Product	Sales	Region
-01-01-2023	A	28	Product1	754	East
-02-01-2023	B	39	Product3	110	North
+01-01-2023	A	     28	     Product1 754	East
+02-01-2023	B	39	Product3	110 	North
 03-01-2023	C	32	Product2	398	East
 04-01-2023	B	8	Product1	522	East
 05-01-2023	B	26	Product3	869	North
